@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "publisher": "panchaoxin",
   "icon": "images/icon.png",
+  "keywords": ["markdown", "header", "index"],
   "engines": {
     "vscode": "^1.35.0"
   },
