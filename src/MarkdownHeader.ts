@@ -2,7 +2,7 @@ export class MarkdownHeader {
     /** Mark of header in Markdown */
     private static readonly HEADER_MARK: string = "#";
 
-    private static readonly HEADER_PATTERN: string = `^${MarkdownHeader.HEADER_MARK}+\\s+((\\d\\.)+\\s+)?`;
+    private static readonly HEADER_PATTERN: string = `^${MarkdownHeader.HEADER_MARK}+\\s+((\\d+\\.)+\\s+)?`;
 
     private static readonly MAX_LEVEL: number = 100;
 

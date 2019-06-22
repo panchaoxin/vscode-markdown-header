@@ -2,7 +2,7 @@
   "name": "markdown-header",
   "displayName": "Markdown Header",
   "description": "Supports multilevel order number to Markdown header",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "panchaoxin",
   "icon": "images/icon.png",
   "keywords": ["markdown", "header", "index"],
